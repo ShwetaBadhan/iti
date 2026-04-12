@@ -28,12 +28,16 @@
 </head>
 
 <body>
-
+<main>
+@include('components.scroll-up')
+@include('components.mobile-menu')
 @include('components.navbar')
 @yield('content')
 
 @include('components.newsletter')
 @include('components.footer')
+
+</main>
 
 
 

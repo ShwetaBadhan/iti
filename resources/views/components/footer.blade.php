@@ -3,7 +3,7 @@
    <div class="it-footer-wrap fix">
       
       <div class="it-footer-area z-index-1 pt-130 pb-80" data-background="assets/img/shape/footer-bg-1-1.jpg">
-         <img class="it-footer-shape-3" data-parallax='{"y": -200, "smoothness": 30}' src="assets/img/shape/footer-1-1.png" alt="">
+         {{-- <img class="it-footer-shape-3" data-parallax='{"y": -200, "smoothness": 30}' src="assets/img/shape/footer-1-1.png" alt=""> --}}
          <div class="it-footer-border"><span></span></div>
          <div class="container">
             <div class="row">
@@ -68,9 +68,11 @@
                         <h4 class="it-footer-widget-title">Get Contact</h4>
                         <div class="it-footer-widget-contact mb-25">
                            <ul>
-                              <li><span>Phone:</span><a href="tel:+91123456789">(+91) 123-456-789</a></li>
-                              <li><span>Email:</span><a href="mailto:educeet@gmail.com">educeet@gmail.com</a></li>
-                              <li><span>Location:</span><a target="_blank" href="https://www.google.com/maps/dir///@24.4503253,17.1644279,4.17z?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D">North America, USA</a></li>
+                              <li><span>Phone:</span><a href="tel:+919814054591">0181-2783091, +91-98140-54591</a></li>
+                              <li><span>Email:</span><a href="mailto:ambedkariti@ymail.com">ambedkariti@ymail.com</a></li>
+                              <li><span>Location:</span><a target="_blank" href="javascript:void(0)">Chandan Nagar ,Kartarpur
+      Distt. Jalandhar,
+      144801, Punjab (India).</a></li>
                            </ul>
                         </div>
                         <div class="it-footer-widget-social">
