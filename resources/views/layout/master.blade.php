@@ -34,7 +34,7 @@
 @include('components.navbar')
 @yield('content')
 
-@include('components.newsletter')
+{{-- @include('components.newsletter') --}}
 @include('components.footer')
 
 </main>

@@ -5,7 +5,8 @@
 @include('components.home.categroies')
 @include('components.home.stats')
 @include('components.home.about-us')
-@include('components.home.courses')
+@include('components.home.employement')
+{{-- @include('components.home.courses') --}}
 @include('components.home.cta')
 @include('components.home.partners')
 @include('components.home.testimonials')

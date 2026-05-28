@@ -58,8 +58,8 @@
                            </i>
                         </div>
                         <div class="it-hero-experience-text">
-                           <span>Active Students</span>
-                           <b>15k<i>+</i></b>
+                           <span>Years Experience</span>
+                           <b>25<i>+</i></b>
                         </div>
                      </div>
                   </div>
@@ -78,8 +78,8 @@
                            </i>
                         </div>
                         <div class="it-hero-experience-text">
-                           <span>Online Video Courses</span>
-                           <b>10k<i>+</i></b>
+                           <span>Students Completed Courses</span>
+                           <b>60k<i>+</i></b>
                         </div>
                      </div>
                   </div>
